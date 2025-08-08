@@ -73,8 +73,6 @@ Open to collaboration, feedback, or new opportunities in:
 
 If you found this project helpful, feel free to ⭐ star the repo!
 
----
 
-## 📎 License
 
-This project is licensed under the MIT License.  
+
