@@ -33,7 +33,8 @@ This project visualizes **key sales metrics**, **customer behavior**, and **oper
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]() <!-- Replace with actual path if needed -->
+![Dashboard Screenshot](![Uploading Screenshot 2025-08-08 112002.png…]()
+) <!-- Replace with actual path if needed -->
 
 ---
 
@@ -59,7 +60,7 @@ This dashboard enables:
 
 **[Muhammad Daud ]** – Data Analyst  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-daud-726b0a295/)  
-📧 your.email@example.com
+📧 mrdaudbajwa@gmail.com
 
 ---
 
