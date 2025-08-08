@@ -1,60 +1,60 @@
-# 📊 Online Shop Sales Analysis Dashboard
+# 🛍️ Online Shop Sales Analysis Dashboard
 
-Welcome to the **Sales Analysis Dashboard** project — a business intelligence solution that transforms raw sales data into actionable insights for an online retail business.
+A professional, data-driven dashboard built to analyze and visualize sales performance for an online retail business. This project translates raw sales data into clear, actionable insights for business decision-making and strategic growth.
 
-This project visualizes **key sales metrics**, **customer behavior**, and **operational efficiency**, helping stakeholders make informed data-driven decisions.
-
----
-
-## 🚀 Features & Insights
-
-- 🛍️ **Total Orders & Revenue**
-  - 205 total orders
-  - $674,634 in revenue
-  - $3,290.90 avg. customer spend
-
-- 🎯 **Revenue Analysis**
-  - Revenue by **Occasions**, **Categories**, **Products**
-  - Top-performing occasion: **Anniversary**
-  - Top product: **Dignissimos Pack**
-
-- 🕒 **Time-Based Trends**
-  - Monthly revenue trends
-  - Hourly order pattern: Peak from **11 AM to 3 PM**
-
-- 🌍 **Customer Demographics**
-  - Top 10 cities by orders (e.g., Dhanbad, Tiruppur)
-  - Geographic spread of buyers
-
-- 🚚 **Operational Metric**
-  - Avg. Order-to-Delivery time: **5.52 days**
+![Dashboard Preview]<img width="1766" height="693" alt="Screenshot 2025-08-08 112002" src="https://github.com/user-attachments/assets/539957b4-dc34-4b29-8181-8b16fa9410d6" />
+() <!-- Update this path with your image if needed -->
 
 ---
 
-## 📸 Dashboard Preview
+## 🔍 Overview
 
-![Dashboard Screenshot](![Uploading Screenshot 2025-08-08 112002.png…]()
-) <!-- Replace with actual path if needed -->
+This interactive dashboard uncovers key metrics such as:
+
+- 📦 **Total Orders:** 205  
+- 💰 **Total Revenue:** $674,634  
+- 👤 **Avg. Customer Spend:** $3,290.90  
+- 🚚 **Avg. Delivery Time:** 5.52 days  
+
+It includes rich visualizations across:
+
+- ✅ Revenue by Occasion, Category, Product  
+- 🕒 Sales Trends by Month & Hour  
+- 🌍 Top Cities by Order Volume  
+- ⚙️ Delivery Performance Metrics  
+
+---
+
+## 💡 Key Insights
+
+- 🏆 **Top Occasion:** *Anniversary* generates the highest revenue.
+- 📈 **Peak Sales Hours:** 11 AM to 3 PM — ideal for ad campaigns.
+- 🌐 **Top City by Orders:** Dhanbad leads, followed by Tiruppur & Kavali.
+- 🛒 **Best-Selling Product:** *Dignissimos Pack*
+
+These insights help businesses:
+- Improve marketing strategies  
+- Identify best-selling products  
+- Optimize delivery operations  
+- Plan inventory based on seasonal trends  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧰 Tools Used
 
-- ✅ Microsoft Excel / Power BI / Tableau *(Specify your tool here)*
-- 📊 Data Visualization & Charting
-- 📁 Dataset from Online Retail Store (anonymized)
+| Tool/Tech | Purpose |
+|----------|---------|
+| 📊 Power BI / Tableau / Excel | Dashboard Development |
+| 📁 CSV/Excel Data | Sales Dataset |
+| 🧠 Data Cleaning & Modeling | Revenue & Order Metrics |
+| 📎 Slicers & Filters | Interactivity by Date, Occasion, Category |
 
----
-
-## 📈 Business Value
-
-This dashboard enables:
-- Better marketing targeting by **occasion & time**
-- Product-level revenue insights
-- Logistics optimization via delivery time tracking
-- Seasonal trend forecasting for planning
+> Replace with actual tools used (Power BI, Tableau, Excel, etc.)
 
 ---
+
+## 📂 Project Structure
+
 
 ## 👨‍💼 Author
 
